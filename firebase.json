@@ -1,0 +1,9 @@
+{
+  "firebase": "jinkyu-byun",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
